@@ -1,5 +1,8 @@
 # cppProjects
 
+### I abstain from anything you will do with this project, distributed for informational purposes only. <br> <br>
+
+
 > This repo contains all the C++ projects that I've made and decided to release it publicly. <br>
 > Some project may require packages or kits like Windows SDK.
 
