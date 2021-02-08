@@ -1,6 +1,6 @@
 # KeyLogger
 
-> Get all the key pressed by the user using the `getch()`  function and save the output in a file. <br>
-> Project totally not finished and with lots of problems. (keys are recorded only when the console is focused)
+> Get all the key pressed by the user using the `GetAsyncKeyState()`  function and save the output in a file. <br>
+> Project not officially released, not finished.
 
 > Released for informational and learning purposes only.
